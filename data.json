@@ -1,0 +1,242 @@
+[
+	{
+		"name": "Pasta Paradise",
+		"cuisine": "Italian",
+		"borough": "Manhattan",
+		"address": "123 Pasta St, New York, NY",
+		"phone": "(212) 555-1234",
+		"rating": 4.5
+	},
+	{
+		"name": "Sushi Master",
+		"cuisine": "Japanese",
+		"borough": "Brooklyn",
+		"address": "456 Sushi Ave, Brooklyn, NY",
+		"phone": "(718) 555-5678",
+		"rating": 4.7
+	},
+	{
+		"name": "Burger Haven",
+		"cuisine": "American",
+		"borough": "Queens",
+		"address": "789 Burger Ln, Queens, NY",
+		"phone": "(917) 555-9101",
+		"rating": 3.9
+	},
+	{
+		"name": "Curry Kingdom",
+		"cuisine": "Indian",
+		"borough": "Manhattan",
+		"address": "321 Curry Rd, New York, NY",
+		"phone": "(212) 555-1112",
+		"rating": 4.2
+	},
+	{
+		"name": "Taco Truck",
+		"cuisine": "Mexican",
+		"borough": "Bronx",
+		"address": "654 Taco St, Bronx, NY",
+		"phone": "(718) 555-3456",
+		"rating": 4.0
+	},
+	{
+		"name": "La Pizzeria",
+		"cuisine": "Italian",
+		"borough": "Manhattan",
+		"address": "1234 Pizza Blvd, New York, NY",
+		"phone": "(212) 555-2345",
+		"rating": 4.8
+	},
+	{
+		"name": "Dim Sum Delight",
+		"cuisine": "Chinese",
+		"borough": "Queens",
+		"address": "876 Dim Sum Dr, Queens, NY",
+		"phone": "(718) 555-6789",
+		"rating": 4.6
+	},
+	{
+		"name": "Fried Chicken Co.",
+		"cuisine": "American",
+		"borough": "Brooklyn",
+		"address": "987 Chicken Rd, Brooklyn, NY",
+		"phone": "(718) 555-4321",
+		"rating": 4.3
+	},
+	{
+		"name": "Pho House",
+		"cuisine": "Vietnamese",
+		"borough": "Manhattan",
+		"address": "543 Pho St, New York, NY",
+		"phone": "(212) 555-6781",
+		"rating": 4.4
+	},
+	{
+		"name": "Sushi Zen",
+		"cuisine": "Japanese",
+		"borough": "Brooklyn",
+		"address": "654 Zen Ave, Brooklyn, NY",
+		"phone": "(718) 555-3210",
+		"rating": 4.9
+	},
+	{
+		"name": "Steakhouse 101",
+		"cuisine": "American",
+		"borough": "Manhattan",
+		"address": "101 Steak St, New York, NY",
+		"phone": "(212) 555-7654",
+		"rating": 4.7
+	},
+	{
+		"name": "Mamma's Kitchen",
+		"cuisine": "Italian",
+		"borough": "Bronx",
+		"address": "789 Mama St, Bronx, NY",
+		"phone": "(718) 555-9876",
+		"rating": 4.1
+	},
+	{
+		"name": "Burrito Bar",
+		"cuisine": "Mexican",
+		"borough": "Queens",
+		"address": "234 Burrito Rd, Queens, NY",
+		"phone": "(718) 555-2345",
+		"rating": 4.0
+	},
+	{
+		"name": "Ramen Station",
+		"cuisine": "Japanese",
+		"borough": "Brooklyn",
+		"address": "432 Ramen St, Brooklyn, NY",
+		"phone": "(718) 555-5432",
+		"rating": 4.5
+	},
+	{
+		"name": "Bistro 56",
+		"cuisine": "French",
+		"borough": "Manhattan",
+		"address": "56 Bistro Blvd, New York, NY",
+		"phone": "(212) 555-6543",
+		"rating": 4.3
+	},
+	{
+		"name": "Tandoori Spice",
+		"cuisine": "Indian",
+		"borough": "Queens",
+		"address": "321 Spice Ln, Queens, NY",
+		"phone": "(718) 555-8901",
+		"rating": 4.6
+	},
+	{
+		"name": "Grill Master",
+		"cuisine": "American",
+		"borough": "Bronx",
+		"address": "234 Grill Rd, Bronx, NY",
+		"phone": "(718) 555-1235",
+		"rating": 3.8
+	},
+	{
+		"name": "Saffron Garden",
+		"cuisine": "Indian",
+		"borough": "Brooklyn",
+		"address": "1234 Saffron Ave, Brooklyn, NY",
+		"phone": "(718) 555-6780",
+		"rating": 4.2
+	},
+	{
+		"name": "Vegan Delight",
+		"cuisine": "Vegan",
+		"borough": "Manhattan",
+		"address": "345 Vegan St, New York, NY",
+		"phone": "(212) 555-4321",
+		"rating": 4.0
+	},
+	{
+		"name": "Churrascaria",
+		"cuisine": "Brazilian",
+		"borough": "Queens",
+		"address": "654 Churrasco Blvd, Queens, NY",
+		"phone": "(718) 555-6782",
+		"rating": 4.3
+	},
+	{
+		"name": "Bagel Factory",
+		"cuisine": "American",
+		"borough": "Manhattan",
+		"address": "987 Bagel Rd, New York, NY",
+		"phone": "(212) 555-8902",
+		"rating": 4.4
+	},
+	{
+		"name": "Pasta Primo",
+		"cuisine": "Italian",
+		"borough": "Bronx",
+		"address": "234 Primo St, Bronx, NY",
+		"phone": "(718) 555-2345",
+		"rating": 4.6
+	},
+	{
+		"name": "Dim Sum House",
+		"cuisine": "Chinese",
+		"borough": "Brooklyn",
+		"address": "432 Dim Sum St, Brooklyn, NY",
+		"phone": "(718) 555-7655",
+		"rating": 4.0
+	},
+	{
+		"name": "Cafe Delight",
+		"cuisine": "Cafe",
+		"borough": "Manhattan",
+		"address": "123 Cafe Rd, New York, NY",
+		"phone": "(212) 555-1235",
+		"rating": 4.5
+	},
+	{
+		"name": "Barbecue Haven",
+		"cuisine": "American",
+		"borough": "Queens",
+		"address": "765 Barbecue Blvd, Queens, NY",
+		"phone": "(718) 555-4320",
+		"rating": 4.2
+	},
+	{
+		"name": "Sushi Fusion",
+		"cuisine": "Japanese",
+		"borough": "Manhattan",
+		"address": "432 Fusion Rd, New York, NY",
+		"phone": "(212) 555-5670",
+		"rating": 4.8
+	},
+	{
+		"name": "Pizza Pie",
+		"cuisine": "Italian",
+		"borough": "Brooklyn",
+		"address": "876 Pizza Ave, Brooklyn, NY",
+		"phone": "(718) 555-2341",
+		"rating": 4.5
+	},
+	{
+		"name": "Noodle Express",
+		"cuisine": "Chinese",
+		"borough": "Manhattan",
+		"address": "654 Noodle St, New York, NY",
+		"phone": "(212) 555-8903",
+		"rating": 4.4
+	},
+	{
+		"name": "Vegan Feast",
+		"cuisine": "Vegan",
+		"borough": "Brooklyn",
+		"address": "321 Feast Rd, Brooklyn, NY",
+		"phone": "(718) 555-5673",
+		"rating": 4.2
+	},
+	{
+		"name": "Grill & Chill",
+		"cuisine": "American",
+		"borough": "Queens",
+		"address": "123 Grill Ave, Queens, NY",
+		"phone": "(718) 555-1237",
+		"rating": 3.7
+	}
+]
