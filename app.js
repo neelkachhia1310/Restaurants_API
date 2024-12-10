@@ -4,8 +4,8 @@ const express = require("express");
 const cors = require("cors");
 const db = require("./db");
 
-const port = process.env.PORT;
-const mongoUri = process.env.MONGO_URI;
+const port = process.env.PORT || 3000;
+const mongoUri = process.env.MONGO_URI || "mongodb://localhost:27017/";
 
 const app = express();
 
