@@ -16,6 +16,10 @@ app.use(express.json());
 db.initialize(mongoUri);
 
 // Routes
+
+app.get("/", (req, res) => {
+	res.send("Hello");
+});
 app.post("/api/restaurants", async (req, res) => {
 	try {
 		const newRestaurant = await db.addNewRestaurant(req.body);
