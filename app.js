@@ -81,8 +81,7 @@ app.delete("/api/restaurants/:id", async (req, res) => {
 	}
 });
 
-const PORT = port || 5000;
-app.listen(PORT, () => {
+app.listen(port, () => {
 	console.log(`Server is running on port ${PORT}`);
 });
 module.exports = app;

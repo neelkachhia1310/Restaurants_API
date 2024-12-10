@@ -4,10 +4,7 @@ const Restaurant = require("./models/restaurant");
 const db = {
 	initialize: async (connectionString) => {
 		try {
-			await mongoose.connect(connectionString, {
-				useNewUrlParser: true,
-				useUnifiedTopology: true,
-			});
+			await mongoose.connect(connectionString);
 			console.log("Connected to MongoDB");
 		} catch (error) {
 			console.error("Failed to connect to MongoDB", error);
